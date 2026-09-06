@@ -65,7 +65,7 @@ produces the final visual effect.
 
 - You need **Python 3** installed on your computer.
 - Clone the repository:
-                       git clone https://github.com/your-username/animated-heart.git
+                       git clone https://github.com/tshegofatsotsamai/animated-heart.git
 - Navigate into the project:
                             cd animated-heart
 - Run the program:
